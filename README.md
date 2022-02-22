@@ -1,4 +1,4 @@
-## Olá, sou o Carlos Gadelha seu futuro programador Full Stack!
+## Olá, sou o Carlos Gadelha, Desenvolvedor Full-Stack em formação!
 
 # Atualmente estou estudando tecnologias web tais como: HTML, CSS e JavaScript
 
