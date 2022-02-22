@@ -1,4 +1,7 @@
-## Olá, sou o Carlos Gadelha, programador apaixonado por tecnologia!
+## Olá, sou o Carlos Gadelha seu futuro programador Full Stack!
+
+# Atualmente estou estudando tecnologias web tais como: HTML, CSS e JavaScript
+
 <div align="center">
   <a href="https://github.com/Carlosgadelha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosgadelha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
