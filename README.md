@@ -1,19 +1,8 @@
-# Olá, sou o Carlos Gadelha, futuro Eng da Computação e Desenvolvedor Full-Stack.
+# Olá, sou o Carlos Gadelha, Tudo bem ?.
 
-## Atualmente estou cursando Engenharia da Computação pela UFC-Sobral. Nesse Ultimo ano, venho estudando tecnologias Web tais como: 
-### Front end
- - React
- - Axios
- - styled components
- - Context api
- 
- ### Back end
- 
- - Node JS
- - Express
- - NoSQL --> MongoDB
- - SQL --> PostgreSQL
- - TypeScript --> Estudando no momento
+## Desenvolvedor Full Stack.
+
+<div style="display: inline_block"><br>
 
 <div align="center">
   <a href="https://github.com/Carlosgadelha">
