@@ -1,6 +1,8 @@
 # Olá, sou o Carlos Gadelha, Tudo bem ?.
 
-## Desenvolvedor Full Stack.
+## Conheci a programação ainda no ensino medio e sabem o que mais me fascina nela é a sua capacidade de transformar. Atualmente sou promagramador full stack e adoro aprender seja mais uma stack ou mesmo otimizar/refatorar um codigo.
+
+## Estou disponivel para novos desafios, vamos conversar ?
 
 <div style="display: inline_block"><br>
 
