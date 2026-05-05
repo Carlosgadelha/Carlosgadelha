@@ -1,41 +1,46 @@
-# Olá, sou o Carlos Gadelha, Tudo bem ?.
+# Olá, eu sou o Carlos Gadelha! 🚀
 
-#### Conheci a programação ainda no ensino medio e sabem o que mais me fascina nela é a sua capacidade de transformar. Atualmente sou desenvolvedor full stack e adoro aprender, seja mais uma stack ou mesmo otimizar/refatorar um codigo.
+**Software Engineer | Full Stack | Engenheiro de Computação (UFC)**
 
-#### Estou disponivel para novos desafios, vamos conversar ?
+Sou um desenvolvedor apaixonado por resolver problemas complexos e transformar ideias em código eficiente. Minha base acadêmica na **Universidade Federal do Ceará (UFC)** aliada à experiência em **startups** me deu a agilidade necessária para entregas rápidas e a visão técnica para construir sistemas resilientes.
 
-<div style="display: inline_block"><br>
+---
 
-<div align="center">
-  <a href="https://github.com/Carlosgadelha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosgadelha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosgadelha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### 🧠 Engenharia e Resolução de Problemas
 
-### Tecnologias e Ferramentas :
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <img align="center" alt="redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
- <img align="center" alt="prisma" height="40" width="50" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.svg">
- <img align="center" alt="jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
- <img align="center" alt="cypress" height="40" width="50" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg">
-  <img align="center" alt="docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-### Contatos:
+Meu foco não está apenas em "fazer o código funcionar", mas em como ele escala e performa. Alguns dos meus diferenciais incluem:
 
-<div>
-  <a href="https://www.linkedin.com/in/carlos-gadelha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:josecarlos.gadelha10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+* **Algoritmos e Lógica:** Desenvolvi motores customizados para geração de jogos de lógica (cruzadas e caça-palavras), onde implementei soluções específicas para otimização de busca em banco de dados e manipulação eficiente de memória.
+* **Especialista em Legado e Evolução:** Tenho vasta experiência na manutenção e **modernização de sistemas PHP**. Já atuei diretamente na **migração de versões do Laravel (de versões 4/5 para a 8)**, garantindo segurança e performance sem interromper a operação.
+* **Ecossistema Vue.js:** Transito com naturalidade entre o **Vue 2** (projetos consolidados) e o **Vue 3** (Composition API, Pinia, Nuxt 3), aplicando sempre as melhores práticas de cada versão.
+* **Cultura de Startup:** Adaptado a ritmos ágeis, foco em evolução constante, entregas incrementais e colaboração próxima com o time.
+
+---
+
+### 💼 Experiência em Destaque
+
+* **sync360.io (Atual):** Focado na modernização de ecossistemas PHP e Vue.js, refatoração de código, upgrade de versões do Laravel e implementação de análise estática (PHPStan/Larastan).
+* **Freelance (Projeto CEUA):** Liderança técnica do time de front-end e implementação completa do back-end (PostgreSQL e Design Patterns).
+* **Spotlar & Setores Públicos:** Desenvolvimento de interfaces dinâmicas com React.js, Next.js e análise de sistemas legados.
+
+---
+
+### 🛠️ Toolbox Técnico
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-end** | PHP (Laravel), Node.js, TypeScript, NestJS, Python |
+| **Front-end** | Vue.js (2 & 3), Nuxt.js, React, Next.js, Tailwind CSS |
+| **Dados & Infra** | PostgreSQL, MongoDB, Redis, Docker, CI/CD |
+| **Qualidade** | PHPStan, Laravel Pint, Jest, Cypress, ESLint |
 
 
- ![Snake animation](https://github.com/Carlosgadelha/Carlosgadelha/blob/output/github-contribution-grid-snake.svg)
-</div>
+### 📫 Vamos conversar?
+
+Estou sempre aberto a novos desafios técnicos e projetos que demandem pensamento crítico.
+
+- **LinkedIn:** [in/carlos-gadelha](https://www.linkedin.com/in/carlos-gadelha/)
+- **Email:** [josecarlos.gadelha10@gmail.com](mailto:josecarlos.gadelha10@gmail.com)
+- **Localização:** Sobral, Ceará (Remoto para o mundo 🌎)
+
+*"Ser programador é aceitar que somos eternos aprendizes."*
